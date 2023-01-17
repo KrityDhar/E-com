@@ -10,7 +10,10 @@
     <div class="content">
       <div class="seltion group">
           <div class="notfound">
-            <h2>404 <span>Not Found</span> </h2>
+            <div>
+              <p>Something Wrong</p>
+            </div> 
+           
           </div>
       </div>
 
